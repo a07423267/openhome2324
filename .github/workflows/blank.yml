@@ -21,4 +21,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: OpenHome-apk
-          path: OpenHome/app/build/outputs/apk/debug/app-debug.apk
+          path: OpenHome/app/build/outputs/apk/debug/app-debug.app
